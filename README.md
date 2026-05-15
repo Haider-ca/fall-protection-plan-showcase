@@ -87,39 +87,59 @@ The application allows workers and employers to:
 
 # System Architecture
 
-![Architecture](./assets/diagrams/architecture.png)
+<p align="center">
+  <img src="./assets/diagrams/architecture.png" width="90%" />
+</p>
 
 ---
 
 # Application Screenshots
 
 ## Home Screen
-![Home](./assets/screenshots/home.png)
+
+<p align="center">
+  <img src="./assets/screenshots/home.png" width="40%" />
+</p>
 
 ---
 
 ## Worksite Diagram Canvas
-![Canvas](./assets/screenshots/worksite-canvas.png)
+
+<p align="center">
+  <img src="./assets/screenshots/worksite-canvas.png" width="45%" />
+</p>
 
 ---
 
 ## AI Hazard Detection
-![AI Detection](./assets/screenshots/ai-detection.png)
+
+<p align="center">
+  <img src="./assets/screenshots/ai-detection.png" width="45%" />
+</p>
 
 ---
 
 ## Guided Tutorial Overlay
-![Tutorial](./assets/screenshots/tutorial.png)
+
+<p align="center">
+  <img src="./assets/screenshots/tutorial.png" width="45%" />
+</p>
 
 ---
 
 ## Rescue Procedure AI Suggestions
-![Rescue AI](./assets/screenshots/rescue-ai.png)
+
+<p align="center">
+  <img src="./assets/screenshots/rescue-ai.png" width="45%" />
+</p>
 
 ---
 
 ## PDF Export Workflow
-![PDF Export](./assets/screenshots/pdf-export.png)
+
+<p align="center">
+  <img src="./assets/screenshots/pdf-export.png" width="45%" />
+</p>
 
 ---
 
